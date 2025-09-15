@@ -1,7 +1,3 @@
-Here’s a concise version of your README for quick reference:
-
----
-
 # Zamini\_path2text\_1.0.0
 
 Generate a complete text file listing all folders and files in a directory, preserving folder structure and full file paths.
